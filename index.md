@@ -2,7 +2,7 @@
 
 ---
 
-### Default Prediction
+### Project 1: Default Prediction from Lending Club Data
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 [Python Notebook](/DefaultPrediction/Defaul_prediction.html)<br>
 [Presentation](/DefaultPrediction/Default_prediction.pdf)
