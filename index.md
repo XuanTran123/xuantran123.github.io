@@ -2,9 +2,11 @@
 
 ---
 
-### Category Name 1 
+### Default Prediction
 
-[Project 1 Title](/sample_page)
+[Python Notebook](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Presentation](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
