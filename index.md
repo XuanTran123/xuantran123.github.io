@@ -20,7 +20,7 @@ This project is a part of the course Data Science for Business 1 at Aalto Univer
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-
+<img src="Scooter Survival Analysis/scooter_image.jpg?raw=true"/>
 
 ### Project 2: Survival Analysis- Predict survival rate for e-scooters. 
 
