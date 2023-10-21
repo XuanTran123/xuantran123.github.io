@@ -21,10 +21,11 @@ This project is a part of the course Data Science for Business 1 at Aalto Univer
 
 ---
 
-### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
+### Project 2: Survival Analysis- Predict survival rate for e-scooters. 
+
+- [Python Notebook](Scooter Survival Analysis/survival_analysis.html)
+- [Report](Scooter Survival Analysis/Survival_analysis_report.pdf)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
