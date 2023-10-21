@@ -4,7 +4,7 @@
 
 ### Default Prediction
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-[Python Notebook](/DefaultPrediction/Defaul_prediction.html)
+[Python Notebook](/DefaultPrediction/Defaul_prediction.html)<br>
 [Presentation](/DefaultPrediction/Default_prediction.pptx)
 
 ---
