@@ -5,7 +5,7 @@
 ### Default Prediction
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 [Python Notebook]
-<link href="DefaultPrediction/Defaul_prediction.html" />
+<a scr="DefaultPrediction/Defaul_prediction.html" />
 <br>
 [Presentation](/sample_page)
 #<link href="extern.html" rel="import" />
