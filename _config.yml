@@ -7,7 +7,11 @@ description: > # your text below (remove <br> elements if you don't need line br
    
   <br>Looking for new internship/trainee opportunities in Data Analytics.<br>
   <a href="https://www.linkedin.com/in/xuan-tran-614737b0/">View My LinkedIn Profile</a> 
+  <br>
 
+
+
+  <br>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
