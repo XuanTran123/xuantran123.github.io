@@ -3,11 +3,12 @@
 ---
 
 ### Default Prediction
-
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 [Python Notebook](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<link href="extern.html" rel="import" />
+<br>
 [Presentation](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+#<link href="extern.html" rel="import" />
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
