@@ -4,8 +4,8 @@
 
 ### Default Prediction
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-[Python Notebook](/sample_page)
-<link href="DefaultPrediction/Defaul_prediction.html" rel="import" />
+[Python Notebook]
+<link href="DefaultPrediction/Defaul_prediction.html" />
 <br>
 [Presentation](/sample_page)
 #<link href="extern.html" rel="import" />
