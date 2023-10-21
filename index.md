@@ -6,7 +6,6 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 [Python Notebook](/DefaultPrediction/Defaul_prediction.html)
 [Presentation](/DefaultPrediction/Defaul_prediction.pptx)
-<iframe src="Chapter1.pptx">
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
