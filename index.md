@@ -5,10 +5,10 @@
 ### Default Prediction
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 [Python Notebook]
-<a scr="DefaultPrediction/Defaul_prediction.html" />
+<iframe scr="DefaultPrediction/Defaul_prediction.html" />
 <br>
-[Presentation](/sample_page)
-#<link href="extern.html" rel="import" />
+[Presentation]
+<iframe src="Chapter1.pptx">
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
