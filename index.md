@@ -10,12 +10,19 @@ This project is a part of the course Data Science for Business 1 at Aalto Univer
 
 [Python Notebook](/DefaultPrediction/Defaul_prediction.html)<br>
 [Presentation](/DefaultPrediction/Default_prediction.pdf)
+---
+
+### Project 2: Default Prediction from Lending Club Data
+
+[UML Diagram](/DefaultPrediction/Default_prediction.pdf)
+[Python Notebook](/Vaccine_git/vaccine_python.html)<br>
+
 
 ---
 
 <img src="Scooter Survival Analysis/scooter_image.jpg?raw=true"/>
 
-### Project 2: Survival Analysis- Predict survival rate for e-scooters. 
+### Project 3: Survival Analysis- Predict survival rate for e-scooters. 
 This project is a module of the course Data Science for Business 2 at Aalto University. The dataset includes 283 observations of 283 scooters with 7 attributes.
 A survival analysis with Kaplan Meier Estimator is conducted with the historical data to build a survival analysis model to predict the survival rate of the scooters. Moreover, a survival analysis with Kaplan Meier Estimator for scooters of manufacturers A,B, and C are also conducted.
 
