@@ -20,7 +20,7 @@ This project is a part of the course Databases for Data Science at Aalto Univers
 
 
 - [UML Diagram](/DefaultPrediction/Default_prediction.pdf) <br>
-- [Python Notebook](/Vaccine_git/vaccine_python.html)
+- [Python Notebook](/Vaccine_git/vaccine_python.html)<br>
 
 
 ---
@@ -32,8 +32,8 @@ This project is a module of the course Data Science for Business 2 at Aalto Univ
 A survival analysis with Kaplan Meier Estimator is conducted with the historical data to build a survival analysis model to predict the survival rate of the scooters. Moreover, a survival analysis with Kaplan Meier Estimator for scooters of manufacturers A,B, and C are also conducted.
 
 Log-rank test is conducted to confirm the difference among the survival rates of scootters from manufacturers A, B, and C. 2 models(Cox Regression and Random Survival Forest) are built  to predict the survival rate of the scooters. Later, those models are used to predict the survival rate of 10 new scooters which were not included in the original dataset.
-- [Python Notebook](Scooter Survival Analysis/survival_analysis.html)
-- [Report](Scooter Survival Analysis/Survival_analysis_report.pdf)
+- [Python Notebook](Scooter Survival Analysis/survival_analysis.html)<br>
+- [Report](Scooter Survival Analysis/Survival_analysis_report.pdf)<br>
 
 
 ---
