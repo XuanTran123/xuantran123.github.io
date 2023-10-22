@@ -11,13 +11,14 @@ This project is a part of the course Data Science for Business 1 at Aalto Univer
 [Python Notebook](/DefaultPrediction/Defaul_prediction.html)<br>
 [Presentation](/DefaultPrediction/Default_prediction.pdf)
 ---
-
 <img src="Vaccine_git/vaccine_image.jpg"/>
 ### Project 2: Default Prediction from Lending Club Data
 This project is a part of the course Databases for Data Science at Aalto University. In this project, I collaborated with 2 other team members to build ETL process of extracting the data from excel sheets, tranform, and load the data to the database. Later, the data exploration work is conducted with SQL queries and python. 
 
-[UML Diagram](/DefaultPrediction/Default_prediction.pdf) <br>
-[Python Notebook](/Vaccine_git/vaccine_python.html)
+
+
+- [UML Diagram](/DefaultPrediction/Default_prediction.pdf) <br>
+- [Python Notebook](/Vaccine_git/vaccine_python.html)
 
 
 ---
