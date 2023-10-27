@@ -14,7 +14,7 @@ This project is a part of the course Data Science for Business 1 at Aalto Univer
 ---
 
 <img src="Vaccine_git/vaccine_image.jpg"/>
-### Project 2: Default Prediction from Lending Club Data
+### Project 2: Vaccine data: ETL process and exploration
 This project is a part of the course Databases for Data Science at Aalto University. In this project, ETL process is built.The data from excel sheets are extracted, tranformed, and loaded to the database. Later, the data exploration work is conducted. 
 
 
