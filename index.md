@@ -38,7 +38,11 @@ Log-rank test is conducted to confirm the difference among the survival rates of
 
 ---
 
+<img src="Report_Power_BI/Finland_pic.webp"/>
+### Project 4: Report of Tourism in Finland using PowerBI
+This project is a part of the Business Intelligence Capstone course at Aalto University.The dataset includes the reviews of different hotels in different locations in Finland. I was tasked to make a report on Finnish Tourism based on the given dataset. All figures in the report were made on Power BI. 
 
+- [Report](Report_Power_BI/PowerBI.pdf)<br>
 
 
 ---
