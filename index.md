@@ -23,7 +23,7 @@ This project is a part of the course Databases for Data Science at Aalto Univers
 - [Python Notebook](/Vaccine_git/vaccine_python.html)<br>
 
 ---
-<img src="/images/accident animation.jpg"/>
+<img src="/images/accident image.jpg"/>
 
 ### Project 3: Accident Analysis
 This project is a part of the course Capstone: Business Intelligence at Aalto University. In this project, many insights are extracted and recommendations are made on accident data provided. The tool used is Tableau
@@ -35,7 +35,7 @@ This project is a part of the course Capstone: Business Intelligence at Aalto Un
 
 <img src="Scooter Survival Analysis/scooter_image.jpg?raw=true"/>
 
-### Project 3: Survival Analysis- Predict survival rate for e-scooters. 
+### Project 4: Survival Analysis- Predict survival rate for e-scooters. 
 This project is a module of the course Data Science for Business 2 at Aalto University. The dataset includes 283 observations of 283 scooters with 7 attributes.
 A survival analysis with Kaplan Meier Estimator is conducted with the historical data to build a survival analysis model to predict the survival rate of the scooters. Moreover, a survival analysis with Kaplan Meier Estimator for scooters of manufacturers A,B, and C are also conducted.
 
