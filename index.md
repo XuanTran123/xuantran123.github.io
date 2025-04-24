@@ -26,7 +26,7 @@ This project is a part of the course Databases for Data Science at Aalto Univers
 <img src="/images/accident animation.jpg"/>
 
 ### Project 3: Accident Analysis
-This project is a part of the course Capstone: Business Intelligence at Aalto University. In this project, many insights are extracted and recommendations are made on accident data provided. The tool used is Tableau
+This project is a part of the course Capstone: Business Intelligence at Aalto University. In this project, many insights are extracted and recommendations are made on accident data provided. The tool used is Tableau.
 
 - [Video of Insights and Recommendations](https://aalto.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=40eb5f77-5995-425a-bf87-afe70139ca00)<br>
 
