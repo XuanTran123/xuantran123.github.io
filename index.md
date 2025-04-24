@@ -23,7 +23,7 @@ This project is a part of the course Databases for Data Science at Aalto Univers
 - [Python Notebook](/Vaccine_git/vaccine_python.html)<br>
 
 ---
-<img src="/images/accident image.jpeg"/>
+<img src="/images/accident animation.jpg"/>
 
 ### Project 3: Accident Analysis
 This project is a part of the course Capstone: Business Intelligence at Aalto University. In this project, many insights are extracted and recommendations are made on accident data provided. The tool used is Tableau
