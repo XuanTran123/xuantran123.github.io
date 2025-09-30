@@ -1,4 +1,10 @@
 ## Portfolio
+- <iframe title="dashboard_gold_olist" 
+        width="600" 
+        height="373.5" 
+        src="https://app.powerbi.com/view?r=eyJrIjoiMjlkMDE2NDEtYzExOC00OWViLTg3NWMtZjlhZDM2N2JmMGRmIiwidCI6IjlkOTc1MzBlLThmMjctNDEzNy1hMmE5LTVjYjRkY2YyNmYyZSIsImMiOjh9" 
+        frameborder="0" 
+        allowFullScreen="true"></iframe>
 <img src="Databricks_transformation-csv/E-commerce_pic.jpg"/>
 ### Project 1: ETL Process & Dashboard on Olist Ecommerce Data 
 
