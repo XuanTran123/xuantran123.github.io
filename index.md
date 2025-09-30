@@ -17,6 +17,7 @@ Using Databricks, the raw data is first ingested and stored in the bronze_olist 
 - [Notebook 2: Transform Data to silver layer](/Databricks_transformation-csv/2_Transform_Data_to_silver_layer.html)<br>
 - [Notebook 3: Aggregate data & load to gold layer](/Databricks_transformation-csv/3_Aggregate_data_&_load_to_gold_layer.html)<br>
 - [Notebook 4: Download csv files from gold layer](/Databricks_transformation-csv/4_Download_csv_files_from_gold_layer.html)<br>
+- [ERD](/Databricks_transformation-csv/ERD.png)<br>
 
 ---
 <img src="DefaultPrediction/default_prediction_pic.png"/>
