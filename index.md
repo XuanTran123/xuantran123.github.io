@@ -1,11 +1,19 @@
 ## Portfolio
-<img src="DefaultPrediction/default_prediction_pic.png"/>
+<img src="Databricks_transformation-csv/E-commerce_pic.jpg"/>
 ### Project 1: ETL Process & Dashboard on Olist Ecommerce Data 
 
 
 
-- [Notebook 1: ](/DefaultPrediction/Defaul_prediction.html)<br>
-- [Dashboard]<iframe title="dashboard_gold_olist" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMjlkMDE2NDEtYzExOC00OWViLTg3NWMtZjlhZDM2N2JmMGRmIiwidCI6IjlkOTc1MzBlLThmMjctNDEzNy1hMmE5LTVjYjRkY2YyNmYyZSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe><br>
+- [Notebook 1: Ingest data to Bronze Olist](/Databricks_transformation-csv/1_Ingest_data_to_Bronze_Olist.html)<br>
+- [Notebook 1: Transform Data to silver layer](/Databricks_transformation-csv/2_Transform_Data_to_silver_layer.html)<br>
+- [Notebook 1: Aggregate data & load to gold layer](/Databricks_transformation-csv/3_Aggregate_data_&_load_to_gold_layer.html)<br>
+- [Notebook 1: Download csv files from gold layer](/Databricks_transformation-csv/4_Download_csv_files_from_gold_layer.html)<br>
+- [Dashboard]<iframe title="dashboard_gold_olist" 
+        width="600" 
+        height="373.5" 
+        src="https://app.powerbi.com/view?r=eyJrIjoiMjlkMDE2NDEtYzExOC00OWViLTg3NWMtZjlhZDM2N2JmMGRmIiwidCI6IjlkOTc1MzBlLThmMjctNDEzNy1hMmE5LTVjYjRkY2YyNmYyZSIsImMiOjh9" 
+        frameborder="0" 
+        allowFullScreen="true"></iframe><br>
 
 ---
 <img src="DefaultPrediction/default_prediction_pic.png"/>
