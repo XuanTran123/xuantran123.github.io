@@ -7,7 +7,7 @@
         src="https://app.powerbi.com/view?r=eyJrIjoiMjlkMDE2NDEtYzExOC00OWViLTg3NWMtZjlhZDM2N2JmMGRmIiwidCI6IjlkOTc1MzBlLThmMjctNDEzNy1hMmE5LTVjYjRkY2YyNmYyZSIsImMiOjh9" 
         frameborder="0" 
         allowFullScreen="true"></iframe>
-<br><br>
+<br><br><br>
 
 
 This is a data engineer project using 2 main tools: Databricks and Power BI. The data used here is Kaggle Olist Ecommerce Data. The original dataset contains multiple tables, with the three largest- order_payments, orders, and order_items- each containing approximately 100,000 rows.
