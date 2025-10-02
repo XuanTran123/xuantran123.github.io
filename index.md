@@ -9,9 +9,9 @@
         allowFullScreen="true"></iframe>
 <br><br>
 
-This is a data engineer project using 2 main tools: Databricks and Power BI. The data used here is Kaggle Olist Ecommerce Data. The original dataset contains multiple tables, with the three largest- order_payments, orders, and order_items- each containing approximately 100,000 rows.
+This is my end-to-end data engineering project built using two main tools: Databricks for data processing and Power BI for visualization. The data used here is Kaggle Olist Ecommerce Data. The original dataset contains multiple tables, with the three largest- order_payments, orders, and order_items- each containing approximately 100,000 rows.
 
-Using Databricks, the raw data is first ingested and stored in the bronze_olist schema. The tables are then cleaned, transformed, and loaded into the silver_olist schema, followed by aggregation into the gold_olist schema. All gold_olist tables are exported as CSV files, compressed into a zip archive, and then loaded into Power BI for dashboard building to visualize key business metrics.
+Using Databricks, the raw data is first ingested and stored in the bronze_olist schema. The tables are then cleaned, transformed, and loaded into the silver_olist schema, followed by aggregation into the gold_olist schema. All gold_olist tables are exported to CSV files, compressed into a zip archive, and then loaded into Power BI for dashboard building to visualize key business metrics.
 
 - [Notebook 1: Ingest data to Bronze Olist](/Databricks_transformation-csv/1_Ingest_data_to_Bronze_Olist.html)<br>
 - [Notebook 2: Transform Data to silver layer](/Databricks_transformation-csv/2_Transform_Data_to_silver_layer.html)<br>
