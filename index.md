@@ -13,11 +13,12 @@ This is my end-to-end data engineering project built using two main tools: Datab
 
 Using Databricks, the raw data is first ingested and stored in the bronze_olist schema. The tables are then cleaned, transformed, and loaded into the silver_olist schema, followed by aggregation into the gold_olist schema. All gold_olist tables are exported to CSV files, compressed into a zip archive, and then loaded into Power BI for dashboard building to visualize key business metrics.
 
-- [Notebook 1: Ingest data to Bronze Olist](/Databricks_transformation-csv/1_Ingest_data_to_Bronze_Olist.html)<br>
-- [Notebook 2: Transform Data to silver layer](/Databricks_transformation-csv/2_Transform_Data_to_silver_layer.html)<br>
-- [Notebook 3: Aggregate data & load to gold layer](/Databricks_transformation-csv/3_Aggregate_data_&_load_to_gold_layer.html)<br>
-- [Notebook 4: Download csv files from gold layer](/Databricks_transformation-csv/4_Download_csv_files_from_gold_layer.html)<br>
-- [ERD](/Databricks_transformation-csv/ERD.png)<br>
+
+- <a href="/Databricks_transformation-csv/1_Ingest_data_to_Bronze_Olist.html" target="_blank">Notebook 1: Ingest data to Bronze Olist</a><br>
+- <a href="/Databricks_transformation-csv/2_Transform_Data_to_silver_layer.html" target="_blank">Notebook 2: Transform Data to silver layer</a><br>
+- <a href="/Databricks_transformation-csv/3_Aggregate_data_&_load_to_gold_layer.html" target="_blank">Notebook 3: Aggregate data & load to gold layer</a><br>
+- <a href="/Databricks_transformation-csv/4_Download_csv_files_from_gold_layer.html" target="_blank">Notebook 4: Download csv files from gold layer</a><br>
+- <a href="/Databricks_transformation-csv/ERD.png" target="_blank">ERD</a><br>
 
 ---
 <img src="DefaultPrediction/default_prediction_pic.png"/>
