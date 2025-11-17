@@ -39,7 +39,7 @@ This project is a part of the course Databases for Data Science at Aalto Univers
 
 
 
-- [UML Diagram](/DefaultPrediction/Default_prediction.pdf) <br>
+- [UML Diagram](/Vaccine_git/UML Diagram.pdf)<br>
 - [Python Notebook](/Vaccine_git/vaccine_python.html)<br>
 
 ---
