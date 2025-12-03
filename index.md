@@ -4,7 +4,7 @@
 <iframe title="dashboard_gold_olist" 
         width="600" 
         height="373.5" 
-        src="https://app.powerbi.com/view?r=eyJrIjoiYzdlZDc2M2ItNmZlMy00OTJkLTg4MzItZWRlODM2NmY5MDlhIiwidCI6IjlkOTc1MzBlLThmMjctNDEzNy1hMmE5LTVjYjRkY2YyNmYyZSIsImMiOjh9" 
+        src="https://app.powerbi.com/view?r=eyJrIjoiYzc0NjYxNjktOTg3OC00NDIzLWE2ODQtN2IzNGI4NGNlOWRiIiwidCI6IjlkOTc1MzBlLThmMjctNDEzNy1hMmE5LTVjYjRkY2YyNmYyZSIsImMiOjh9" 
         frameborder="0" 
         allowFullScreen="true"></iframe>
 <br><br>
